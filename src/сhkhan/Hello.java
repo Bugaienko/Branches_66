@@ -1,4 +1,4 @@
-package Chkhan;
+package сhkhan;
 
 public class Hello {
     @Override
